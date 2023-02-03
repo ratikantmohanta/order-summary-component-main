@@ -32,7 +32,6 @@ Users should be able to:
 ![Desktop Site above 375px width](./screenshots/Screenshot-1.png)
 ![Mobile Site at 375px](./screenshots/Screenshot-2.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
