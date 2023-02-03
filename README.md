@@ -45,7 +45,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -66,8 +65,6 @@ const proudOfThisFunc = () => {
   console.log('🎉')
 }
 ```
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
